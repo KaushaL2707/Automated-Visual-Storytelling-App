@@ -1,0 +1,7 @@
+opencv
+ultralytics
+langchain-core
+langchain-openai
+langchain
+langchain-community
+streamlit
